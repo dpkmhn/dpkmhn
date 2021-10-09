@@ -3,7 +3,7 @@
 
 ### I am Deepak Mohan, an Aspiring Software Engineer and a Masters Student at University of Leeds
 
-- 🔭 I’m currently improving my skills Web Development.
+- 🔭 I’m currently learning Web Development with the MERN stack.
 - 😄 My areas of interest are  Web Development, Data Structures & Algorithms and Machine learning.
 
  ### 🔧 Languages and Frameworks:
