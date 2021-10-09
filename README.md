@@ -3,10 +3,9 @@
 
 ### I am Deepak Mohan, an Aspiring Software Engineer and a Masters Student at University of Leeds
 
-- 🔭 I’m currently improving my skills React.js.
+- 🔭 I’m currently improving my skills Web Development.
 - 😄 My areas of interest are  Web Development, Data Structures & Algorithms and Machine learning.
 
- 
  ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
