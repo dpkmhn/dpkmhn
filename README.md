@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### I am Deepak Mohan, an Aspiring Software Engineer and a Masters Student at University of Leeds
+### I am Deepak Mohan, an Aspiring Software Engineer and a Masters Student at The University of Leeds
 
 - 🔭 I’m currently learning Web Development with the MERN stack.
 - 😄 My areas of interest are  Web Development, Data Structures & Algorithms and Machine learning.
