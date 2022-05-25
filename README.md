@@ -4,7 +4,7 @@
 ### A Computer Science Master's Student at The University of Leeds and a Full Stack Developer 
 
 - At present I'm learning the MERN stack comprising of MongoDB, Express.js, React.js and Node.js.
-- I am looking forward to collaborate with other passionate developers
+- Looking forward to collaborate with other passionate developers
 - 2022 Goal: To master MERN Stack and contribute to open source projects.
 
  ### 🔧 Languages and Frameworks:
