@@ -12,6 +12,7 @@
  <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/344/firebase.png" title="Firebase"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
