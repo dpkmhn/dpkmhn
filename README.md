@@ -1,7 +1,7 @@
 ## Hi there, I'm Deepak Mohan.
 
 
-### A Computer Science Master's Student at The University of Leeds and a Full Stack Developer 
+### A Master's Student in Computer Science at The University of Leeds and a Full Stack Developer 
 
 - At present I'm learning the MERN stack comprising of MongoDB, Express.js, React.js and Node.js.
 - Looking forward to collaborate with other passionate developers.
