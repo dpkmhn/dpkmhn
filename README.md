@@ -1,4 +1,4 @@
-## Hi there, I'm Deepak Mohan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+## Hi there, I'm Deepak Mohan <img width="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 
 ### A Computer Science Master's Student at The University of Leeds and a Full Stack Developer 
