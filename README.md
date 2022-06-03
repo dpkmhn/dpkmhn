@@ -5,11 +5,12 @@
 
 - At present I'm learning the MERN stack comprising of MongoDB, Express.js, React.js and Node.js.
 - Looking forward to collaborate with other passionate developers.
-- 2022 Goal: To master the MERN Stack and contribute to open source projects.
+- 2022 Goal: To master the MERN Stack and contribute to open source projects. 
 
- ### 🔧 Languages and Frameworks:
+### 🔧 Languages and Frameworks:
  <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
  <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+ <code><img width="40px" src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/344/firebase.png" title="Firebase"/></code>
