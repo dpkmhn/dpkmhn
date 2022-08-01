@@ -15,8 +15,6 @@
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
  <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
- 
- https://img.icons8.com/officel/344/php-logo.png
  <code><img width="40px" src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png"/></code>
 <code><img width="40px" src="https://img.icons8.com/officel/344/php-logo.png" title="PHP"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
