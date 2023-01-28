@@ -1,11 +1,13 @@
 ## Hi there, I'm Deepak Mohan.
 
 
-### A recent Post Graduate in Computer Science from The University of Leeds and a Full Stack Developer 
+### A recent MSc Graduate in Computer Science from The University of Leeds and a Full Stack Developer 
 
-- At present I'm learning the MERN stack comprising of MongoDB, Express.js, React.js and Node.js.
-- Looking forward to collaborate with other passionate developers.
-- 2023 Goal: To master the MERN Stack and contribute to open source projects. 
+- A self-motivated, ambitious and passionate Software Developer with excellent problem-solving skills and 
+  more than 1 year of experience with Full Stack Development, Mobile Development, Machine Learning and  Data Science.
+
+- Proficient with React.js and Next.js for the front-end with Express.js, Node.js and MongoDB for the back-end, 
+  coupled with adequate experience in Python, Java and .NET Framework.
 
 ### 🔧 Languages and Frameworks:
  <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
