@@ -11,6 +11,7 @@
 
 ### 🔧 Languages and Frameworks:
  <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/512/typescript.png" title="Typescript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px"  src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png" title="C#"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/></code>
