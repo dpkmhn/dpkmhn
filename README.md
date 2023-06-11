@@ -3,7 +3,7 @@
 
 ### A recent MSc Graduate in Computer Science from The University of Leeds 
 
-• An ambitious, determined and a passionate Software Developer with excellent analytical and problem solving skills with a deep interest in Low Latency Development using C++ and building large scale systems with C#, Python and Java. 
+• An ambitious, determined and a passionate Software Developer with excellent analytical and problem solving skills with a deep interest and skills in Low Latency Development using C++ and building large scale systems with Python, C# and Java. 
 
 • Having more than a year of experience in different fields of Computer Science like Full Stack Development, Machine Learning and Data Science.
 
