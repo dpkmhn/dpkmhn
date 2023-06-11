@@ -1,17 +1,17 @@
 ## Hi there, I am Deepak Mohan.
 
 
-### A recent MSc Graduate in Computer Science from The University of Leeds 
+### A recent MSc Computer Science Graduate from The University of Leeds 
 
-• An ambitious, determined and a passionate Software Developer with excellent analytical and problem solving skills with a deep interest and skills in Low Latency Development using C++ and building large scale systems with Python, C# and Java. 
+• An ambitious, determined and passionate Software Developer with excellent analytical and problem-solving skills with a deep interest and abilities in Low Latency Development using C++ and building large-scale systems with Python, C# and Java.
 
 • Having more than a year of experience in different fields of Computer Science like Full Stack Development, Machine Learning and Data Science.
 
 ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/37/java-coffee-cup-logo--v1.png" title ="Java"/></code>
 <code><img width="40px"  src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png" title="C#"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/37/java-coffee-cup-logo--v1.png" title ="Java"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
   <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
