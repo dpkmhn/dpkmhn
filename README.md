@@ -1,13 +1,11 @@
-## Hi there, I'm Deepak Mohan.
+## Hi there, I am Deepak Mohan.
 
 
 ### A recent MSc Graduate in Computer Science from The University of Leeds and a Full Stack Developer 
 
-- A self-motivated, ambitious and passionate Software Developer with excellent problem-solving skills and 
-  more than 1 year of experience with Full Stack Development, Mobile Development, Machine Learning and  Data Science.
+• An ambitious, determined and a passionate Software Developer with excellent analytical and problem solving skills with a deep interest in Low Latency Development using C++ and building large scale systems using C#, Python and Java. 
 
-- Proficient with React.js and Next.js for the front-end with Express.js, Node.js and MongoDB for the back-end, 
-  coupled with adequate experience in Python, Java and .NET Framework.
+• Having more than a year of experience in different fields of Computer Science like Full Stack Development, Machine Learning and Data Science.
 
 ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
