@@ -13,11 +13,8 @@
 <code><img width="40px" src="https://img.icons8.com/color/37/java-coffee-cup-logo--v1.png" title ="Java"/></code>
 <code><img width="40px"  src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png" title="C#"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/512/typescript.png" title="Typescript"/></code>
- <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
- <code><img width="40px" src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png"/></code>
-<code><img width="40px" src="https://www.php.net/images/logos/php-logo-bigger.png" title="PHP"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
+  <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+ <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/344/firebase.png" title="Firebase"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
