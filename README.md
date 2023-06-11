@@ -1,7 +1,7 @@
 ## Hi there, I am Deepak Mohan.
 
 
-### A recent MSc Graduate in Computer Science from The University of Leeds and a Full Stack Developer 
+### A recent MSc Graduate in Computer Science from The University of Leeds 
 
 • An ambitious, determined and a passionate Software Developer with excellent analytical and problem solving skills with a deep interest in Low Latency Development using C++ and building large scale systems with C#, Python and Java. 
 
