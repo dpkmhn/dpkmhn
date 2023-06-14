@@ -7,7 +7,7 @@
 
 • Having more than a year of experience in different fields of Computer Science like Full Stack Development, Machine Learning and Data Science.
 
-### 🔧 Languages and Frameworks:
+### 🔧 Languages and Technologies:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px"  src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png" title="C#"/></code>
