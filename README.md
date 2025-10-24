@@ -1,16 +1,31 @@
 ## Hi there, I am Deepak
 
-• An ambitious, determined and passionate Software Developer with excellent analytical and problem-solving skills. Posessing a keen interest and skills in Low Latency Development using C++ and building large-scale systems with Python, C# and Java.
+A passionate and results-driven Software Engineer with a Master’s in Advanced Computer Science from the University of Leeds, currently building enterprise-grade financial software using Java, Spring Boot, and React.js.
 
-• Having more than a year of experience in different fields of Computer Science like Full Stack Development, Machine Learning and Data Science.
+I bring hands-on experience across the full stack—delivering secure REST APIs, containerized microservices, and performance-optimized UIs. I’ve worked on high-impact systems used by thousands of users, and recently contributed to integrating AI-powered features using Microsoft Copilot.
+
+Key highlights of my experience include:
+
+• Engineering scalable web applications using Java, Spring Boot, React.js.
+
+• Developed robust REST APIs for system integration with PostgreSQL and Spring Security.
+
+• Enhanced patient services for the NHS by creating system libraries impacting over 500,000 patients.
+
+• Helped revamp an internal Learning Management System used by 8000+ employees.
+
+• Built machine learning models (Scikit-learn) with up to 85% accuracy, reducing risk exposure.
+
+I am a continuous learner, committed to staying ahead in the fast-evolving tech landscape.
+Feel free to connect with me to discuss potential opportunities, collaborations, or the latest developments in technology.
 
 ### 🔧 Languages and Technologies:
-<code><img width="40px"  src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png" title="C#"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/37/java-coffee-cup-logo--v1.png" title ="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
- <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
+ <code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title="typescript.png"/></code>
   <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+  <code><img width="40px"  src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png" title="C#"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
