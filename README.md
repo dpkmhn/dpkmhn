@@ -6,12 +6,12 @@ I work across the stack — high-throughput REST APIs, Redis caching, PostgreSQL
 
 Recent highlights:
 
-🏦 Built backend services for real-time financial reporting & analytics at Access Group
-⚡ Cut PostgreSQL report latency 8s→3s; API response times 180ms→60ms via Redis caching
-🏥 Shipped REST APIs for NHS-adjacent healthcare platforms serving 50,000+ patients
-🎓 Modernised a Learning Management System used by 8,000+ employees
-🤖 Contributed to a Copilot-style assistant using Azure OpenAI for natural language queries
-🧠 MSc dissertation: real-time facial emotion detection (CNN, 81% accuracy) on FERPlus
+- 🏦 Built backend services for real-time financial reporting & analytics at Access Group
+- ⚡ Cut PostgreSQL report latency 8s→3s; API response times 180ms→60ms via Redis caching
+- 🏥 Shipped REST APIs for NHS-adjacent healthcare platforms serving 50,000+ patients
+- 🎓 Modernised a Learning Management System used by 8,000+ employees
+- 🤖 Contributed to a Copilot-style assistant using Azure OpenAI for natural language queries
+- 🧠 MSc dissertation: real-time facial emotion detection (CNN, 81% accuracy) on FERPlus
 
 Always up for a conversation about backend architecture, low-latency systems, or where fintech and engineering meet.
 
