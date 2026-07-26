@@ -2,22 +2,18 @@
 
 A passionate and results-driven Software Engineer with a Master’s in Advanced Computer Science from the University of Leeds, currently building enterprise-grade financial software using Java, Spring Boot, and React.js.
 
-I bring hands-on experience across the full stack—delivering secure REST APIs, containerized microservices, and performance-optimized UIs. I’ve worked on high-impact systems used by thousands of users, and recently contributed to integrating AI-powered features using Microsoft Copilot.
+I work across the stack — high-throughput REST APIs, Redis caching, PostgreSQL optimisation, containerised microservices — and I like making slow things fast: recent wins include cutting report generation from 8s to 3s and API response times from 180ms to 60ms under peak load.
 
-Key highlights of my experience include:
+Recent highlights:
 
-• Engineering scalable web applications using Java, Spring Boot, React.js.
+🏦 Built backend services for real-time financial reporting & analytics at Access Group
+⚡ Cut PostgreSQL report latency 8s→3s; API response times 180ms→60ms via Redis caching
+🏥 Shipped REST APIs for NHS-adjacent healthcare platforms serving 50,000+ patients
+🎓 Modernised a Learning Management System used by 8,000+ employees
+🤖 Contributed to a Copilot-style assistant using Azure OpenAI for natural language queries
+🧠 MSc dissertation: real-time facial emotion detection (CNN, 81% accuracy) on FERPlus
 
-• Developed robust REST APIs for system integration with PostgreSQL and Spring Security.
-
-• Enhanced patient services for the NHS by creating system libraries impacting over 500,000 patients.
-
-• Helped revamp an internal Learning Management System used by 8000+ employees.
-
-• Built machine learning models (Scikit-learn) with up to 85% accuracy, reducing risk exposure.
-
-I am a continuous learner, committed to staying ahead in the fast-evolving tech landscape.
-Feel free to connect with me to discuss potential opportunities, collaborations, or the latest developments in technology.
+Always up for a conversation about backend architecture, low-latency systems, or where fintech and engineering meet.
 
 ### 🔧 Languages and Technologies:
 <code><img width="40px" src="https://img.icons8.com/color/37/java-coffee-cup-logo--v1.png" title ="Java"/></code>
