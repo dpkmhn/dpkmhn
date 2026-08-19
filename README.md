@@ -1,12 +1,12 @@
-## Hi there, I am Deepak
+## Hi there, I am Deepak👋
 
-A passionate and results-driven Software Engineer with a Master’s in Advanced Computer Science from the University of Leeds, currently building enterprise-grade financial software using Java, Spring Boot, and React.js.
+I'm a Software Engineer with an MSc in Advanced Computer Science from the University of Leeds, currently building enterprise-grade financial software across Python, Java.
 
-I work across the stack — high-throughput REST APIs, Redis caching, PostgreSQL optimisation, containerised microservices — and I like making slow things fast: recent wins include cutting report generation from 8s to 3s and API response times from 180ms to 60ms under peak load.
+I specialise in backend engineering, REST APIs, microservices, databases, and performance optimisation. I enjoy solving problems where scalability and performance matter — recent work includes reducing report generation time from 8s to 3s and improving API response times from 180ms to 60ms through PostgreSQL optimisation and Redis caching.
 
 Recent highlights:
 
-- 🏦 Built backend services for real-time financial reporting & analytics at Access Group
+- 🏦 Built backend services for real-time financial reporting & analytics
 - ⚡ Cut PostgreSQL report latency 8s→3s; API response times 180ms→60ms via Redis caching
 - 🏥 Shipped REST APIs for NHS-adjacent healthcare platforms serving 50,000+ patients
 - 🎓 Modernised a Learning Management System used by 8,000+ employees
@@ -16,9 +16,9 @@ Recent highlights:
 Always up for a conversation about backend architecture, low-latency systems, or where fintech and engineering meet.
 
 ### 🔧 Languages and Technologies:
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/37/java-coffee-cup-logo--v1.png" title ="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
  <code><img width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" title="typescript.png"/></code>
   <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
   <code><img width="40px"  src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png" title="C#"/></code>
